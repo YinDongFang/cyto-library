@@ -1,0 +1,29 @@
+{
+  "name": "cyto-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-library.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-library/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-library#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cytoscape": "^3.28.1",
+    "is-array": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-string": "^1.0.7",
+    "nodemon": "^3.1.0",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0"
+  }
+}
